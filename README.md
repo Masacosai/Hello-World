@@ -1,5 +1,5 @@
 # hello-world
 Practice
-##Hello World!!
+##Hi ！！
 ##您好！！
-##こんにちは
+##こんにちは！！
